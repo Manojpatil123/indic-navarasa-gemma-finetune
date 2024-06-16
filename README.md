@@ -5,4 +5,4 @@ Repository of finetuning Gemma 7B/ 2B models on 9 Indian Languages.
 
 `Inference.ipynb` - Notebook to guide you to provide inference for fine-tuned models.
 
-Please refer to [Telugu-LLM-Labs](https://huggingface.co/Telugu-LLM-Labs) for models and datasets.
+Please refer to [Telugu-LLM-Labs](https://huggingface.co/Telugu-LLM-Labs) for models and datasets
